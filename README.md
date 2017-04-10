@@ -1,2 +1,2 @@
 # Exploring-Gun-Deaths-in-the-US
-DataQuest Guided Project - Python Programming: Intermediate
+Dataquest Guided Project - Python Programming: Intermediate
